@@ -1,5 +1,6 @@
 /*
 Challenge link: https://www.hackerrank.com/challenges/occupations
+Environment: MySQL
 */
 
 SET @cnt_doctors = 0;
